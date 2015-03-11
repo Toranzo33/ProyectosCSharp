@@ -1,0 +1,5 @@
+C:\Users\Thor\Documents\Visual Studio 2013\Projects\Tonga\Tonga\bin\Debug\Tonga.exe
+C:\Users\Thor\Documents\Visual Studio 2013\Projects\Tonga\Tonga\bin\Debug\Tonga.pdb
+C:\Users\Thor\Documents\Visual Studio 2013\Projects\Tonga\Tonga\obj\Debug\Tonga.exe
+C:\Users\Thor\Documents\Visual Studio 2013\Projects\Tonga\Tonga\obj\Debug\Tonga.pdb
+C:\Users\Thor\Documents\Visual Studio 2013\Projects\Tonga\Tonga\obj\Debug\Tonga.csprojResolveAssemblyReference.cache

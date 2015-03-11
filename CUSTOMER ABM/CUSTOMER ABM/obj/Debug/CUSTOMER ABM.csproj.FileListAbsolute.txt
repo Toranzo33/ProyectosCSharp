@@ -1,0 +1,6 @@
+c:\users\thor\documents\visual studio 2013\Projects\CUSTOMER ABM\CUSTOMER ABM\bin\Debug\CUSTOMER ABM.exe.config
+c:\users\thor\documents\visual studio 2013\Projects\CUSTOMER ABM\CUSTOMER ABM\obj\Debug\CUSTOMER ABM.csprojResolveAssemblyReference.cache
+C:\Users\Thor\documents\visual studio 2013\Projects\CUSTOMER ABM\CUSTOMER ABM\bin\Debug\CUSTOMER ABM.exe
+C:\Users\Thor\documents\visual studio 2013\Projects\CUSTOMER ABM\CUSTOMER ABM\bin\Debug\CUSTOMER ABM.pdb
+C:\Users\Thor\documents\visual studio 2013\Projects\CUSTOMER ABM\CUSTOMER ABM\obj\Debug\CUSTOMER ABM.exe
+C:\Users\Thor\documents\visual studio 2013\Projects\CUSTOMER ABM\CUSTOMER ABM\obj\Debug\CUSTOMER ABM.pdb

@@ -1,0 +1,6 @@
+c:\users\thor\documents\visual studio 2013\Projects\GradeBook\GradeBook\bin\Debug\GradeBook.exe.config
+c:\users\thor\documents\visual studio 2013\Projects\GradeBook\GradeBook\bin\Debug\GradeBook.exe
+c:\users\thor\documents\visual studio 2013\Projects\GradeBook\GradeBook\bin\Debug\GradeBook.pdb
+c:\users\thor\documents\visual studio 2013\Projects\GradeBook\GradeBook\obj\Debug\GradeBook.exe
+c:\users\thor\documents\visual studio 2013\Projects\GradeBook\GradeBook\obj\Debug\GradeBook.pdb
+c:\users\thor\documents\visual studio 2013\Projects\GradeBook\GradeBook\obj\Debug\GradeBook.csprojResolveAssemblyReference.cache
